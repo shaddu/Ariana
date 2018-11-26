@@ -23,7 +23,21 @@ Javascript dependencies : ` npm install `
 
 It should start the app on port 8000
 
+***
 
+### Basic Testing & coverage 
+
+Backend : ` python manage.py test ` 
+
+backend coverage : ` coverage run --source='.' manage.py test` 
+
+`coverage html` 
+
+check the html file at .ariana/htmlcov/index.html
+
+frontend : ` npm run e2e `
+
+***
 ### App flow
 
 ![list](./screenshots/questionnaireList.PNG)
