@@ -1,5 +1,8 @@
 # Ariana
 ## It is chat style questionnarie app
+ 
+
+
 
 ***
 
@@ -25,9 +28,17 @@ It should start the app on port 8000
 
 ![list](./screenshots/questionnaireList.PNG)
 
+Click on any of the list item
+
+***
+
 ![list](./screenshots/1.PNG)
 
+***
+
 ![list](./screenshots/2.PNG)
+
+***
 
 ![list](./screenshots/3.PNG)
 
