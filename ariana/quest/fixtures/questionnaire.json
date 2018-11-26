@@ -1,0 +1,18 @@
+[
+    {
+        "model": "quest.Questionnaire",
+        "pk": 1,
+        "fields": {
+            "name": "Are you hungary?",
+            "slug": "Are-you-hungary"
+        }
+    },
+    {
+        "model": "quest.Questionnaire",
+        "pk": 2,
+        "fields": {
+            "name": "Order clothes ?",
+            "slug": "Order-clothes"
+        }
+    }
+]
